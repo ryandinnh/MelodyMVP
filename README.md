@@ -8,3 +8,8 @@ Customizable playlist generation based on genres, moods, and more.
 A feedback loop to improve playlist recommendations over time.
 Scalable design for future enhancements like collaborative filtering and community features.
 This repository contains the core codebase for the MVP (Minimum Viable Product) stage of Melody, including the frontend (React), backend (Node.js/Express), and database (PostgreSQL).
+
+To run you need to add a .emv file to root directory with the following credientals:
+CLIENT_ID=your-client-id
+CLIENT_SECRET=your-client-secret
+
