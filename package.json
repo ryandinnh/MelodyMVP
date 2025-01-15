@@ -1,0 +1,26 @@
+{
+  "name": "melodymvp",
+  "version": "1.0.0",
+  "description": "A web-based app that uses Spotify API and user preferences to create tailored playlists. Features include Spotify OAuth login, customizable playlist options, and feedback integration for improved recommendations. Built with React, Node.js, and PostgreSQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryandinnh/MelodyMVP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryandinnh/MelodyMVP/issues"
+  },
+  "homepage": "https://github.com/ryandinnh/MelodyMVP#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
